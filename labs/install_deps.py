@@ -6,7 +6,7 @@ def require_think_dsp():
     if not os.path.exists('thinkdsp.py'):
         # if on Windows, we use local executable of wget
         if os.name == 'nt':
-            wget_path = os.path.abspath("../util/wget.exe")
+            wget_path = os.path.abspath("../../util/wget.exe")
         else:
             wget_path = "wget"
 
