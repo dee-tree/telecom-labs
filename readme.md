@@ -12,7 +12,9 @@
 2. Lab 2: Harmonics
     * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab2/lab2.ipynb)
     * [Local Jupyter notebook](./labs/lab2/lab2.ipynb)
-
+3. Lab 3: Aperiodic signals
+    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab3/lab3.ipynb)
+    * [Local Jupyter notebook](./labs/lab3/lab3.ipynb)
 
 ### Note:
 
