@@ -6,9 +6,12 @@
 [#think_dsp]()
 [#gnu_radio]()
 
-1. Lab 1:
+1. Lab 1: Sounds and signals
     * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab1/lab1.ipynb)
     * [Local Jupyter notebook](./labs/lab1/lab1.ipynb)
+2. Lab 2: Harmonics
+    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab2/lab2.ipynb)
+    * [Local Jupyter notebook](./labs/lab2/lab2.ipynb)
 
 
 ### Note:
