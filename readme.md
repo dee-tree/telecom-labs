@@ -15,7 +15,12 @@
 3. Lab 3: Aperiodic signals
     * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab3/lab3.ipynb)
     * [Local Jupyter notebook](./labs/lab3/lab3.ipynb)
-
+4. Lab 4: Noise
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab4/lab4.ipynb)
+   * [Local Jupyter notebook](./labs/lab4/lab4.ipynb)
+5. Lab5: Autocorrelation **[In progress]**
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab5/lab5.ipynb)
+   * [Local Jupyter notebook](./labs/lab5/lab5.ipynb)
 ### Note:
 
 * Lab notebooks use module `install_deps.py`, which is in `labs` folder.
