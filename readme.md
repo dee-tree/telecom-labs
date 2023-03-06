@@ -18,9 +18,10 @@
 4. Lab 4: Noise
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab4/lab4.ipynb)
    * [Local Jupyter notebook](./labs/lab4/lab4.ipynb)
-5. Lab5: Autocorrelation **[In progress]**
+5. Lab 5: Autocorrelation
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab5/lab5.ipynb)
    * [Local Jupyter notebook](./labs/lab5/lab5.ipynb)
+6. Lab 6: **[in progress]**
 ### Note:
 
 * Lab notebooks use module `install_deps.py`, which is in `labs` folder.
@@ -30,3 +31,6 @@ Windows and linux OS. For Windows OS local version of `wget.exe` is used.
 * If you just want to *see* the code, you can open local **.ipynb** versions of notebooks or use Google Colab references.
 
 * If your purpose is to *run and change* the code, you can clone/download the repo and execute the code using Jupyter Notebook or PyCharm Professional.
+
+
+[Master repository: AllenDowney](https://github.com/AllenDowney/ThinkDSP)
