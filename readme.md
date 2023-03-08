@@ -21,10 +21,13 @@
 5. Lab 5: Autocorrelation
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab5/lab5.ipynb)
    * [Local Jupyter notebook](./labs/lab5/lab5.ipynb)
-6. Lab 6: Discrete cosine transformation **[in progress]**
+6. Lab 6: Discrete cosine transformation
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab6/lab6.ipynb)
    * [Local Jupyter notebook](./labs/lab5/lab6.ipynb)
-
+7. Lab 7: **[in progress]**
+8. Lab 8: **TODO**
+9. Lab 9: **TODO**
+10. Lab 10: **TODO**
 ### Note:
 
 * Lab notebooks use module `install_deps.py`, which is in `labs` folder.
