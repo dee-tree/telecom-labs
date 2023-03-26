@@ -27,7 +27,9 @@
 7. Lab 7: Discrete Fourier transformation (DFT) **[in progress]**
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab7/lab7.ipynb)
    * [Local Jupyter notebook](./labs/lab7/lab7.ipynb)
-8. Lab 8: **TODO**
+8. Lab 8: Filtration and convolution
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab8/lab8.ipynb)
+   * [Local Jupyter notebook](./labs/lab8/lab8.ipynb)
 9. Lab 9: **TODO**
 10. Lab 10: **TODO**
 ### Note:
