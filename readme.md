@@ -31,6 +31,8 @@
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab8/lab8.ipynb)
    * [Local Jupyter notebook](./labs/lab8/lab8.ipynb)
 9. Lab 9: **TODO**
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab9/lab9.ipynb)
+   * [Local Jupyter notebook](./labs/lab9/lab9.ipynb)
 10. Lab 10: **TODO**
 ### Note:
 
