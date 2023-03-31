@@ -24,7 +24,7 @@
 6. Lab 6: Discrete cosine transformation
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab6/lab6.ipynb)
    * [Local Jupyter notebook](./labs/lab6/lab6.ipynb)
-7. Lab 7: Discrete Fourier transformation (DFT) **[in progress]**
+7. Lab 7: Discrete Fourier transformation (DFT)
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab7/lab7.ipynb)
    * [Local Jupyter notebook](./labs/lab7/lab7.ipynb)
 8. Lab 8: Filtration and convolution
@@ -33,7 +33,11 @@
 9. Lab 9: Differentiation and integration
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab9/lab9.ipynb)
    * [Local Jupyter notebook](./labs/lab9/lab9.ipynb)
-10. Lab 10: **TODO**
+10. Lab 10: Linear systems and signals
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab10/lab10.ipynb)
+   * [Local Jupyter notebook](./labs/lab10/lab10.ipynb)
+11. Lab 11: Modulation and sampling
+
 ### Note:
 
 * Lab notebooks use module `install_deps.py`, which is in `labs` folder.
