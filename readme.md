@@ -37,6 +37,8 @@
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab10/lab10.ipynb)
    * [Local Jupyter notebook](./labs/lab10/lab10.ipynb)
 11. Lab 11: Modulation and sampling
+   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab11/lab11.ipynb)
+   * [Local Jupyter notebook](./labs/lab11/lab11.ipynb)
 
 ### Note:
 
