@@ -34,11 +34,14 @@
    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab9/lab9.ipynb)
    * [Local Jupyter notebook](./labs/lab9/lab9.ipynb)
 10. Lab 10: Linear systems and signals
-   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab10/lab10.ipynb)
-   * [Local Jupyter notebook](./labs/lab10/lab10.ipynb)
+    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab10/lab10.ipynb)
+    * [Local Jupyter notebook](./labs/lab10/lab10.ipynb)
 11. Lab 11: Modulation and sampling
-   * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab11/lab11.ipynb)
-   * [Local Jupyter notebook](./labs/lab11/lab11.ipynb)
+    * [Google Colab notebook](https://colab.research.google.com/github/dee-tree/telecom-labs/blob/master/labs/lab11/lab11.ipynb)
+    * [Local Jupyter notebook](./labs/lab11/lab11.ipynb)
+12. Lab 12: Single Sideband transceiver
+    * [pdf report](./labs/lab12/report.pdf)
+    * [editable tex report](./labs/lab12/report.tex)
 
 ### Note:
 
